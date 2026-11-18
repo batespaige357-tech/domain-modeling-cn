@@ -2,13 +2,11 @@
 
 **把中文业务术语说清楚，让词汇表与代码使用同一种含义。**
 
-基于 [mattpocock/skills 的 domain-modeling](https://github.com/mattpocock/skills/tree/main/skills/engineering/domain-modeling) 的小幅中文适配。独立维护、非官方。
-
-## 保留什么
+## 功能与流程
 
 挑战模糊术语、用具体场景检验边界、对照代码、及时记录明确的定义。保留按上下文组织词汇表的方法和两个原始格式文件；只有难逆转、有上下文价值且存在真实取舍时才提出 ADR。
 
-## 中文补充
+## 中文支持
 
 - 区分中文业务称谓、英文领域名和代码标识，避免机械直译。
 - 在既有上下文中消歧，不把所有同名词强行合并。
@@ -25,7 +23,9 @@ npx skills add batespaige357-tech/domain-modeling-cn --skill domain-modeling-cn
 
 这是业务概念建模与文档工作流，不自带代码生成器、数据库或 ADR 平台。没有脚本、示例网页、截图或前后对比。
 
-## 来源与检查
+## 来源与许可
+
+基于 [mattpocock/skills 的 domain-modeling](https://github.com/mattpocock/skills/tree/main/skills/engineering/domain-modeling)，由本仓库维护。
 
 MIT，保留 Matt Pocock 版权和完整许可证。[CHANGES.md](CHANGES.md) 记录来源提交与具体变化。
 

@@ -76,7 +76,7 @@ If any of the three is missing, skip the ADR. Use the format in [ADR-FORMAT.md](
 
 ## 中文术语适配 — domain-modeling-cn 新增
 
-独立社区适配，保留上游澄清术语、具体场景检验、代码对照、即时记录和克制创建 ADR 的方法，不代表原作者官方版本。
+保留上游澄清术语、具体场景检验、代码对照、即时记录和克制创建 ADR 的方法。
 
 ### 中文业务词与代码名称分开核对
 
